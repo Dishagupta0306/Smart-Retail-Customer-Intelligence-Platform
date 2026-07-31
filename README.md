@@ -218,3 +218,47 @@ Recognized Person
 ### Status
 
 ✅ Completed
+
+# 📌 Module 4 – AI Retail Chatbot
+
+## Objective
+
+Build an AI-powered chatbot that answers common customer queries related to retail services.
+
+## Technologies Used
+
+- Python
+- Sentence Transformers
+- FAISS
+- NumPy
+
+## Features
+
+- Answers customer questions
+- Understands similar questions using semantic search
+- Fast response generation
+
+## Sample Questions
+
+- What is your return policy?
+- Do you provide home delivery?
+- How can I track my order?
+- What payment methods do you accept?
+
+## Output
+
+- chatbot.pkl
+
+## Status
+
+✅ Completed
+
+# 📊 Current Project Progress
+
+| Module | Status |
+|---------|--------|
+| Product Classification | ✅ Completed |
+| Sentiment Analysis | ✅ Completed |
+| Face Recognition | ✅ Completed |
+| AI Retail Chatbot | ✅ Completed |
+| FastAPI Integration | 🔄 Next |
