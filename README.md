@@ -187,3 +187,34 @@ Integrated M.Tech – CSE (Computational Data Science)
 # 📜 License
 
 This project is developed for academic and educational purposes.
+## 📌 Module 3 – Face Recognition
+
+### Objective
+
+Recognize customers using facial recognition.
+
+### Dataset
+
+Labeled Faces in the Wild (LFW)
+
+### Model
+
+- Support Vector Machine (SVM)
+
+### Workflow
+
+Face Image
+↓
+Feature Extraction
+↓
+SVM Classifier
+↓
+Recognized Person
+
+### Output
+
+- face_recognition_model.pkl
+
+### Status
+
+✅ Completed
